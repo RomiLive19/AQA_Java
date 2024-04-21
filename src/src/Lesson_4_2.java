@@ -8,8 +8,8 @@ public class Lesson_4_2 {
         Employee[] employees = new Employee[5];
 
         employees[0] = new Employee("Ivanov Ivan Ivanovich", "QA", "ivanovich@gmail.com", "+375291111111", 70000.0, 20);
-        employees[1] = new Employee("Chekhov Anton Pavlovich", "AQA", "pavlovich@gmail.com", "+375292222222", 80000.0, 41);
-        employees[2] = new Employee("Pushkin Alexander Sergeevich", "JAVA", "sidorov@gmail.com", "+375293333333", 90000.0, 35);
+        employees[1] = new Employee("Chekhov Anton Pavlovich", "AQA", "pavlovich@gmail.com", "+375292222222", 80000.0, 42);
+        employees[2] = new Employee("Pushkin Alexander Sergeevich", "JAVA", "sidorov@gmail.com", "+375293333333", 190000.0, 35);
         employees[3] = new Employee("Tolstoy Lev Nicolaevich", "SA", "sergeevich@gmail.com", "+375294444444", 80000.0, 45);
         employees[4] = new Employee("Bulgakov Mikhail Afanasyevich ", "PM", "afanasyevich@gmail.com", "+375295555555", 70000.0, 18);
 
