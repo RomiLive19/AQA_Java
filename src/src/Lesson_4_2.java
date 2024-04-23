@@ -1,5 +1,5 @@
 /**
- Lesson_4
+ * Lesson_4
  **/
 
 public class Lesson_4_2 {
@@ -20,6 +20,7 @@ public class Lesson_4_2 {
             }
         }
     }
+
     static class Employee {
         private String fullName;
         private String position;

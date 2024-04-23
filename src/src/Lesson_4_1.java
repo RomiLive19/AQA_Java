@@ -1,5 +1,5 @@
 /**
- Lesson_4
+ * Lesson_4
  **/
 
 public class Lesson_4_1 {
@@ -30,8 +30,9 @@ public class Lesson_4_1 {
             System.out.println("Зарплата: " + salary);
             System.out.println("Возраст : " + age);
         }
+
         public static void main(String[] args) {
-            Employee employee1 = new Employee("Romanov Roman Romanovich", "QA", "romanov@mail.com", "+375291234567", 100000.0, 35 );
+            Employee employee1 = new Employee("Romanov Roman Romanovich", "QA", "romanov@mail.com", "+375291234567", 100000.0, 35);
             employee1.print();
         }
     }

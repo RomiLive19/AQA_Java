@@ -1,5 +1,5 @@
 /**
- Lesson_4
+ * Lesson_4
  **/
 
 public class Lesson_4_3 {
